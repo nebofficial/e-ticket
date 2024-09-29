@@ -1,0 +1,340 @@
+[
+    {
+        "id": 1,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 2,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 3,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 4,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 5,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 6,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 7,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 8,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 9,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 10,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 11,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 12,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 13,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 14,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 15,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 16,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "slider",
+        "image": "src/assets/IMG-20240923-WA0010.jpg"
+    },
+    {
+        "id": 17,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/17.webp"
+    },
+    {
+        "id": 18,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/18.webp"
+    },
+    {
+        "id": 19,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/19.webp"
+    },
+    {
+        "id": 20,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/20.webp"
+    },
+    {
+        "id": 21,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/21.webp"
+    },
+    {
+        "id": 22,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/22.webp"
+    },
+    {
+        "id": 23,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/23.webp"
+    },
+    {
+        "id": 25,
+        "name": "story",
+        "title": "title",
+        "price": 0,
+        "category": "topper",
+        "image": "src/assets/25.webp"
+    },
+    {
+        "id": 26,
+        "name": "Dr.Mamta Pandey",
+        "title": "M.Tech.Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t3.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Dr. Sanivarapu Prasanth Vaidya",
+        "title": "M.Tech., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t2.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Dr A.Vanathi",
+        "title": "M.E., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t1.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Mr. Nalla Siva Kumar",
+        "title": "M.E., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t4.jpeg"
+    },
+    {
+        "id": 30,
+        "name": "Dr.P.Uday Kumar",
+        "title": "M.E., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t5.jpeg"
+    },
+    {
+        "id": 31,
+        "name": "Mr.GANDHIKOTA UMAMAHESH",
+        "title": "M.E., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t6.jpeg"
+    },
+    {
+        "id": 32,
+        "name": "Mrs.S.S.D.SRI AKULA TOYAZA",
+        "title": "M.E., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t7.jpeg"
+    },
+    {
+        "id": 33,
+        "name": "Mr.Kaladi Govindaraju",
+        "title": "M.E., Ph.D",
+        "price": 0,
+        "category": "team",
+        "image": "src/assets/t8.png"
+    },
+   
+    {
+        "id": 35,
+        "name": "google cloud",
+        "title": "Introduction to Vertex AI Studio Course by Google Cloud",
+        "price": 0,
+        "category": "free",
+        "image": "src/assets/c1.png"
+    },
+    {
+        "id": 36,
+        "name": "university of pennsylvania",
+        "title": "Artificial Intelligent Essentials",
+        "price": 0,
+        "category": "free",
+        "image": "src/assets/c2.png"
+    },
+    {
+       "id": 37,
+        "name": "Google Cloud",
+        "title": "Introduction to image Generation",
+        "price": 0,
+        "category": "free",
+        "image": "src/assets/c1.png" 
+    },
+    {
+    "id": 38,
+        "name": "Python For Everybody",
+        "title": "University for Micigan",
+        "price": 0,
+        "category": "free",
+        "image": "src/assets/c3.png"
+    },
+    {
+        "id": 39,
+        "name": "CyberSecurity",
+        "title":"IOT Security",
+        "Price": 10222,
+        "category": "Paid",
+        "image": "src/assets/c1.png"
+    },
+    {
+        "id": 40,
+        "name": "google cloud",
+        "title": "Introduction to Vertex AI Studio Course by Google Cloud",
+        "price": 1290,
+        "category": "Paid",
+        "image": "src/assets/c1.png"
+    },
+    {
+        "id": 41,
+        "name": "university of pennsylvania",
+        "title": "Artificial Intelligent Essentials",
+        "price": 536443,
+        "category": "Paid",
+        "image": "src/assets/c2.png"
+    },
+    {
+       "id": 42,
+        "name": "Google Cloud",
+        "title": "Introduction to image Generation",
+        "price": 2320,
+        "category": "Paid",
+        "image": "src/assets/c1.png" 
+    },
+    {
+    "id": 43,
+        "name": "Python For Everybody",
+        "title": "University for Micigan",
+        "price": 1110,
+        "category": "Paid",
+        "image": "src/assets/c3.png"
+    },
+    {
+        "id": 44,
+        "name": "CyberSecurity",
+        "title":"IOT Security",
+        "Price": 9999,
+        "category": "Paid",
+        "image": "src/assets/c1.png"
+    }
+
+]
